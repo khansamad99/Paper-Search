@@ -1,0 +1,27 @@
+ 
+        .h{
+        	text-align:center;
+        	font-family: 'Open Sans', sans-serif;
+			font-family: 'PT Sans', sans-serif;
+			color: rgb(0, 0, 0);
+
+        }
+	   .bar{
+	   	padding: 10px 20px;
+	   	font-size:20px;
+	   	border:none;
+	   	position:absolute;
+	   	top:100px;
+	   	left:50%;
+	   	width:70%;
+	   	transform:translate(-50%,-50%);
+	   	background-color:rgb(221, 221, 221);
+	   	outline: none;  
+	   }
+	   #results{
+	   	margin-top: 150px;
+	   }
+	   .res{
+	   	font-family: sans-serif;
+	   	color: rgb(244, 244, 234)
+	   }
