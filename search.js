@@ -6,7 +6,7 @@ $(document).ready(function() {
 			$.getJSON('list.json',function(result){
 				var list = result.list;
 			    var options = {
-					  shouldSort: false,
+					  shouldSort: true,
 					  threshold: 0.6,
 					  location: 0,
 					  distance: 100,
