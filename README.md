@@ -1,5 +1,5 @@
-# Paper-Search
-Qusetion Paper Search Website For College
+# Previous Year Paper-Search
+Question Paper Search Website For College
 
 Made using **FUSEJS** Library of Javascript and Front-end made using HTMl and CSS
 
